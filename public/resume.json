@@ -16,7 +16,7 @@
       {
         "network": "Linkedin",
         "icon": "fa-brands fa-linkedin-in",
-        "username": "Shariq Shahbaz",
+        "username": "shariqshahbaz",
         "url": "https://www.linkedin.com/in/shariqshahbaz/"
       },
       {
@@ -29,13 +29,28 @@
   },
   "work": [
     {
+      "name": "Beauty Expert Sweden AB",
+      "url": "",
+      "position": "Lead Full-stack Developer",
+      "startDate": "2024-04-01",
+      "endDate": "2024-09-01",
+      "location": "Malmö",
+      "points": [
+        "Developed a <strong>patient journal application</strong>, keeping track of patient info, entries, treatments etc.",
+        "Responsible for the entire software lifecycle, from <strong>conception</strong> to <strong>deployment</strong>",
+        "Delivered a fast and <strong>cost-efficient</strong> web-application, with support for <strong>terabytes</strong> of potential data, as well as regular backups."
+      ],
+      "highlights": ["Laravel", "PHP", "Blade", "AWS"]
+    },
+    {
       "name": "PixelCloud AB",
       "url": "https://www.pixelcloud.se/",
       "position": "Full-stack Developer",
       "startDate": "2022-06-01",
       "endDate": "2022-08-01",
+      "location": "Malmö",
       "points": [
-        "Oversaw the entire web application development cycle, from conceptualization to deployment",
+        "Oversaw the entire web application <strong>development lifecycle</strong>, from conception to deployment",
         "Utilized <strong>React.js</strong> for front-end development, <strong>Node.js</strong> for back-end development in the form of <strong>Next.js</strong>, along with <strong>Prisma</strong> as the ORM"
       ],
       "highlights": ["Next.js", "Prisma", "PostgreSQL"]
@@ -43,12 +58,13 @@
     {
       "name": "Chalmers University",
       "url": "https://www.chalmers.se/",
-      "position": "Teaching Assistent",
+      "position": "Teaching Assistant",
       "startDate": "2022-08-01",
       "endDate": "2024-01-01",
+      "location": "Gothenburg",
       "points": [
         "Courses included Object Oriented Programming, Requirements Engineering, Real Time Systems and Distributed Systems among others",
-        "Responsibilites included helping students as well as <strong>grading assignments</strong> and occassionally <strong>grading exams</strong>"
+        "Responsibilities included helping students as well as <strong>grading assignments</strong> and occasionally <strong>grading exams</strong>"
       ],
       "highlights": ["OOP", "Databases", "Distributed Systems"]
     }
@@ -68,7 +84,7 @@
       "institution": "University of Gothenburg",
       "url": "https://gu.se/",
       "area": "Software Engineering and Management",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor's of Science",
       "startDate": "2021-09-01",
       "endDate": "2024-06-01"
     },
@@ -76,7 +92,7 @@
       "institution": "Malmö Borgarskolan",
       "url": "https://gu.se/",
       "area": "International Baccalaureate",
-      "studyType": "High School",
+      "studyType": "High School Diploma",
       "startDate": "2018-08-01",
       "endDate": "2021-06-01"
     }
@@ -92,35 +108,35 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Javascript", "Typescript", "Java", "Python"]
+      "keywords": ["Javascript", "Typescript", "C#", "Python"]
     },
     {
       "name": "Backend Development",
-      "keywords": ["Node.js", "Next.js", "SpringBoot", "Flask", "Django"]
+      "keywords": ["Node.js", "ASP.NET Core", "Django"]
     },
     {
       "name": "Frontend Development",
-      "keywords": ["React", "Svelte", "Solid", "Vue"]
+      "keywords": ["React.js", "Redux", "Vue.js", "Tailwind", "HTML/CSS"]
     },
     {
       "name": "Databases",
-      "keywords": ["PostgreSQL", "MongoDB", "Redis", "Neo4J"]
+      "keywords": ["PostgreSQL", "MongoDB", "Redis"]
     },
     {
-      "name": "DevOps and Monitoring",
+      "name": "DevOps",
       "keywords": [
-        "Kafka",
         "Docker",
         "Kubernetes",
-        "Elastic",
-        "Grafana",
-        "Prometheus",
-        "Kibana"
+        "Linux"
       ]
     },
     {
-      "name": "Software Engineering Workflow",
-      "keywords": ["Agile (SAFe and Scrum)", "Git", "Linux"]
+      "name": "Project Management",
+      "keywords": ["Agile Methodologies (SAFe and Scrum)"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Team Player", "Results-oriented", "Self-motivated"]
     }
   ],
   "languages": [
@@ -168,7 +184,7 @@
       "name": "Flashtime",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "A learning tracker service to optimize learning through spaced repitition",
+      "description": "A learning tracker service to optimize learning through spaced repetition",
       "highlights": ["Express.js", "MongoDB", "JWT", "Vue.js"],
       "url": "https://github.com/sh4r10/flashtime"
     },
