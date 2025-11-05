@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Shariq Shahbaz",
-    "label": "Software Engineer",
+    "label": "Full-stack Developer",
     "image": "images/profile.jpg",
     "email": "shariqsmain@gmail.com",
     "phone": "+46769811222",
     "url": "https://shariqshahbaz.com",
-    "summary": "A summary of John Doe…",
     "location": {
       "city": "Gothenburg, Malmö",
       "countryCode": "SE",
@@ -165,7 +164,7 @@
   ],
   "references": [
     {
-      "name": "Asas Inab",
+      "name": "Asas Innab",
       "position": "CEO PixelCloudAB",
       "contact": "info@pixelcloud.se",
       "reference": "Great"
